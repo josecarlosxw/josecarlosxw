@@ -10,7 +10,7 @@ tecnologias através do desenvolvimento.
 
 ---
 
-## 💻 Skills
+## 🧠 Skills
 
 ### 💻 Linguagens & Desenvolvimento
 
