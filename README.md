@@ -1,4 +1,5 @@
-# José Carlos
+# 👨🏽‍💻 José Carlos
+
 ### Software Engineering Student | Backend Developer
 
 Estudante de Engenharia de Software e desenvolvedor em formação,
@@ -9,7 +10,7 @@ tecnologias através do desenvolvimento.
 
 ---
 
-## 🧠 Skills
+## 💻 Skills
 
 ### 💻 Linguagens & Desenvolvimento
 
@@ -32,9 +33,8 @@ tecnologias através do desenvolvimento.
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" title="Linux"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" title="SQL / MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" title="MySQL"/>
   &nbsp;&nbsp;
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" title="HTML5"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" title="CSS3"/>
@@ -47,4 +47,4 @@ tecnologias através do desenvolvimento.
 | APIs REST | Lógica de programação | Git & GitHub |
 | Integração de sistemas | Algoritmos | Linux |
 | Desenvolvimento Backend | Estruturas de dados | Hardware |
-| SQL | Modularização | Redes |****
+| SQL | Modularização | Redes |
