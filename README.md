@@ -1,4 +1,4 @@
-#José Carlos
+# José Carlos
 ### Software Engineering Student | Backend Developer
 
 Estudante de Engenharia de Software e desenvolvedor em formação,
