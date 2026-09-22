@@ -1,4 +1,4 @@
-# 👨🏽‍💻 José Carlos
+# José Carlos
 
 ### Software Engineering Student | Backend Developer
 
