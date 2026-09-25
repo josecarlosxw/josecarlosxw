@@ -12,7 +12,7 @@ tecnologias através do desenvolvimento.
 
 ## 🧠 Skills
 
-### 💻 Linguagens & Desenvolvimento
+### 💻 Linguagens e Desenvolvimento
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" title="Go"/>
@@ -24,7 +24,7 @@ tecnologias através do desenvolvimento.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
 </p>
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git"/>
