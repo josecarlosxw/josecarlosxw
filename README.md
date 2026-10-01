@@ -21,6 +21,8 @@ tecnologias através do desenvolvimento.
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
 </p>
 
@@ -42,9 +44,9 @@ tecnologias através do desenvolvimento.
 
 ### 🔧 Conhecimentos
 
-| Backend | Fundamentos | Outros |
-|:---|:---|:---|
-| APIs REST | Lógica de programação | Git & GitHub |
-| Integração de sistemas | Algoritmos | Linux |
-| Desenvolvimento Backend | Estruturas de dados | Hardware |
-| SQL | Modularização | Redes |
+| Backend                 | Fundamentos           | Outros       |
+| :---------------------- | :-------------------- | :----------- |
+| APIs REST               | Lógica de programação | Git & GitHub |
+| Integração de sistemas  | Algoritmos            | Linux        |
+| Desenvolvimento Backend | Estruturas de dados   | Hardware     |
+| SQL                     | Modularização         | Redes        |
