@@ -2,11 +2,9 @@
 
 ### Software Engineering Student | Backend Developer
 
-Estudante de Engenharia de Software e desenvolvedor em formação,
-focado em Backend, APIs e construção de soluções.
+Estudante de Engenharia de Software e desenvolvedor em formação, focado em Backend, APIs e construção de soluções.
 
-Gosto de transformar ideias em projetos práticos e aprender novas
-tecnologias através do desenvolvimento.
+Gosto de transformar ideias em projetos práticos e aprender novas tecnologias através do desenvolvimento.
 
 ---
 
@@ -38,13 +36,19 @@ tecnologias através do desenvolvimento.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" title="HTML5"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" title="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="44" title="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" title="n8n"/>
 </p>
 
 ### 🔧 Conhecimentos
 
-| Backend                 | Fundamentos           | Outros       |
-| :---------------------- | :-------------------- | :----------- |
-| APIs REST               | Lógica de programação | Git & GitHub |
-| Integração de sistemas  | Algoritmos            | Linux        |
-| Desenvolvimento Backend | Estruturas de dados   | Hardware     |
-| SQL                     | Modularização         | Redes        |
+| Backend | Fundamentos | Outros |
+| :--- | :--- | :--- |
+| APIs REST | Lógica de programação | Git & GitHub |
+| Integração de sistemas | Algoritmos | Linux |
+| Desenvolvimento Backend | Estruturas de dados | Hardware |
+| SQL | Modularização | Redes |
+| | | Power BI |
+| | | Automação de workflows (n8n) |
