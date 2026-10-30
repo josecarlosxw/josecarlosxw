@@ -29,7 +29,6 @@ Gosto de transformar ideias em projetos práticos e aprender novas tecnologias a
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44" title="Linux"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" title="MySQL"/>
   &nbsp;&nbsp;
@@ -37,7 +36,6 @@ Gosto de transformar ideias em projetos práticos e aprender novas tecnologias a
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" title="CSS3"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="44" title="Power BI"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" title="n8n"/>
 </p>
