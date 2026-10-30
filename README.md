@@ -48,4 +48,3 @@ Gosto de transformar ideias em projetos práticos e aprender novas tecnologias a
 | Integração de sistemas | Algoritmos | Linux |
 | Desenvolvimento Backend | Estruturas de dados | Hardware |
 | SQL | Modularização | Redes |
-| | | Automação de workflows (n8n) |
